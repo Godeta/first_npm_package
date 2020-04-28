@@ -1,6 +1,6 @@
 {
   "name": "first_npm_package_godet",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Add shadows depending of the options",
   "main": "index.js",
   "scripts": {
