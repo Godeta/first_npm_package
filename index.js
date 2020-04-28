@@ -1,3 +1,6 @@
+//npm init to create the package.json (après avoir fait github et autre) puis npm publish
+//error no permission to publish -> changer le nom
+
 function shadowizard(options) {
     let images = document.querySelectorAll('.shadowizard');
 
@@ -17,4 +20,4 @@ function shadowizard(options) {
 
 }
 
-module.exports.shadowizard = first_npm_package;
+module.exports.shadowizard = shadowizard;
