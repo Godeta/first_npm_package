@@ -9,7 +9,9 @@ For now, allow to use shadowizard function to change the shadows of images !
 Then...
 
 ```
-import { shadowizard } from 'npm_first_package';
+import {
+    shadowizard
+} from "first_npm_package_godet";
 
 shadowizard({
     shadow_type: 'soft',
